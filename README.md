@@ -1,6 +1,6 @@
 <!-- ACCENT COLOR: ffffff — find and replace to change the entire theme -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d2d2d,100:ffffff&height=180&section=header&text=Igo%20Domingo&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Developer%20%7C%20Hackathon%20Enthusiast&descSize=18&descColor=c9d1d9&descAlignY=55&fontFamily=JetBrains+Mono" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d2d2d,100:ffffff&height=180&section=header&text=Igo%20Domingo&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
