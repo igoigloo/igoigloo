@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+luv+data+dev;AI%2FML+%26+Hackathon+Enthusiast;From+IoT+to+the+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+luv+data+dev;AI%2FML+%26+Hackathons+Are+Cool;GIS+Kinda+Guy)](https://git.io/typing-svg)
 
 </div>
 
