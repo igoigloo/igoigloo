@@ -51,7 +51,7 @@
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=igoigloo&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igoigloo&theme=github_dark&hide_border=true" width="100%" />
 
 </td>
 </tr>
